@@ -1,1 +1,1 @@
-# cit281-p4
+We used more fastify working with question and answer data. We wrote multiple functions to grab certain parts of question and answer data, and coded fastify routes to return the values for each of the functions.
